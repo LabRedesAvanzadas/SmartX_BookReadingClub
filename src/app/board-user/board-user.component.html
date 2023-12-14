@@ -1,0 +1,40 @@
+<div class="mt-5">
+  <h1 class="text-center">Dive into Deep Learning</h1>
+  <h2>Sistema de control de lectura</h2>
+</div>
+
+<mat-accordion>
+  <mat-expansion-panel *ngFor="let chapter of chapters; let iChapter = index">
+    <mat-expansion-panel-header>
+      <mat-panel-title>
+        {{chapter.title}}
+      </mat-panel-title>
+      <mat-panel-description>
+        <div class="w-100"><p-progressBar [value]="getOveralCompletition(iChapter+1)"></p-progressBar></div>
+      </mat-panel-description>
+    </mat-expansion-panel-header>
+
+    <mat-expansion-panel *ngFor="let subchapter of chapter.subchapters; let iSubchapter = index">
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          {{subchapter.title}}
+        </mat-panel-title>
+        <mat-panel-description>
+          {{getCompletitionNumber(iChapter+1, iSubchapter+1)}} de {{subchapter.themes.length}}
+        </mat-panel-description>
+      </mat-expansion-panel-header>
+      <mat-selection-list>
+        <h3>
+          <mat-list-option
+          *ngFor="let theme of subchapter.themes; let iTheme = index"
+          [selected]="verifyCheckedTheme(iChapter+1, iSubchapter+1, iTheme+1)"
+          (selectedChange)="updateChecklist($event, iChapter+1, iSubchapter+1, iTheme+1)">
+            <a [href]="chapter.link" target="_blank">{{theme.title}}</a>
+            <mat-divider></mat-divider>
+          </mat-list-option>
+        </h3>
+      </mat-selection-list>
+    </mat-expansion-panel>
+
+  </mat-expansion-panel>
+</mat-accordion>
