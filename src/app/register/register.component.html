@@ -62,8 +62,8 @@
         </div>
       </div>
       <a href="#" style="pointer-events: none;">
-        
-        
+
+
       </a>
 
       <div class="submit-button form-group">
@@ -73,16 +73,17 @@
         <span></span>
         <button class="transparent-btn">Registro</button>
       </div>
-      
-      
+
+
       <div class="alert alert-warning" *ngIf="f.submitted && isSignUpFailed">
        Registro falló<br />{{ errorMessage }}
       </div>
     </form>
     <div class="alert alert-success" *ngIf="isSuccessful">
-      El registro fue exitoso
+      El registro fué exitoso
+      <a href="/login">Inicia Sesión</a>
     </div>
-    
+
   </div>
 
 </div>

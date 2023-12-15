@@ -18,7 +18,12 @@ export class BoardUserComponent implements OnInit {
   constructor(private storageService: StorageService,
               private checklistService: ChecklistService) { }
 
+  reloadPage(): void {
+    window.location.reload();
+  }
+
   ngOnInit(): void {
+
     this.currentUser = this.storageService.getUser();
     console.log(this.currentUser)
 

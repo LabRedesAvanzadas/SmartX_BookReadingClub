@@ -6,7 +6,10 @@
       {
         "title": "Introdution and examples",
         "link": "https://d2l.ai/chapter_preliminaries/ndarray.html",
-        "themes": []
+        "themes": [{
+          "title": "Introduction and examples",
+          "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+        }]
       }
     ]
   },
