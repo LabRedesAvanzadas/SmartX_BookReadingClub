@@ -26,11 +26,11 @@
       </mat-expansion-panel-header>
       <mat-selection-list>
         <h3>
-          <mat-list-option
+          <mat-list-option 
           *ngFor="let theme of subchapter.themes; let iTheme = index"
           [selected]="verifyCheckedTheme(iChapter+1, iSubchapter+1, iTheme+1)"
           (selectedChange)="updateChecklist($event, iChapter+1, iSubchapter+1, iTheme+1)">
-            <a [href]="chapter.link" target="_blank">{{theme.title}}</a>
+            <a [href]="chapter.link" target="_blank" (click)="$event.stopPropagation();">{{theme.title}}</a>
             <mat-divider></mat-divider>
           </mat-list-option>
         </h3>

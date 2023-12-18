@@ -5,10 +5,11 @@
     "subchapters" : [
       {
         "title": "Introdution and examples",
-        "link": "https://d2l.ai/chapter_preliminaries/ndarray.html",
+        "link": "",
+        "deadline": "4/1/2024",
         "themes": [{
           "title": "Introduction and examples",
-          "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+          "link": "https://d2l.ai/chapter_introduction/index.html"
         }]
       }
     ]
@@ -20,123 +21,242 @@
       {
         "title": "2.1. Data Manipulation",
         "link": "https://d2l.ai/chapter_preliminaries/ndarray.html",
+        "deadline": "7/1/2024",
         "themes": [
           {
             "title": "2.1.1. Getting Started",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html#getting-started"
           },
           {
             "title": "2.1.2. Indexing and Slicing",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html#indexing-and-slicing"
           },
           {
             "title": "2.1.3. Operations",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html#operations"
           },
           {
             "title": "2.1.4. Broadcasting",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html#broadcasting"
           },
           {
             "title": "2.1.5. Saving Memory",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html#saving-memory"
           },
           {
             "title": "2.1.6. Conversion to Other Python Objects",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html#conversion-to-other-python-objects"
           },
           {
             "title": "2.1.7. Summary",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html#summary"
           },
           {
             "title": "2.1.8. Exercises",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/pandas.html#exercises"
           }
         ]
       },
       {
         "title": "2.2. Data Preprocessing",
-        "link": "https://d2l.ai/chapter_preliminaries/ndarray.html",
+        "link": "https://d2l.ai/chapter_preliminaries/pandas.html",
+        "deadline": "7/1/2024",
         "themes": [
           {
             "title": "2.2.1. Reading the Dataset",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/pandas.html#reading-the-dataset"
           },
           {
             "title": "2.2.2. Data Preparation",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/pandas.html#data-preparation"
           },
           {
             "title": "2.2.3. Conversion to the Tensor Format",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/pandas.html#conversion-to-the-tensor-format"
           },
           {
             "title": "2.2.4. Discussion",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/pandas.html#discussion"
           },
           {
             "title": "2.2.5. Exercises",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/pandas.html#exercises"
           }
 
         ]
       },
       {
         "title": "2.3. Linear Algebra",
-        "link": "https://d2l.ai/chapter_preliminaries/ndarray.html",
+        "link": "https://d2l.ai/chapter_preliminaries/linear-algebra.html",
+        "deadline": "8/1/2024",
         "themes": [
           {
             "title": "2.3.1. Scalars",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/linear-algebra.html#scalars"
           },
           {
             "title": "2.3.2. Vectors",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/linear-algebra.html#vectors"
           },
           {
             "title": "2.3.3. Matrices",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/linear-algebra.html#matrices"
           },
           {
             "title": "2.3.4. Tensors",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/linear-algebra.html#tensors"
           },
           {
             "title": "2.3.5. Basic Properties of Tensor Arithmetic",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/linear-algebra.html#basic-properties-of-tensor-arithmetic"
           },
           {
             "title": "2.3.6. Reduction",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/linear-algebra.html#reduction"
           },
           {
             "title": "2.3.7. Non-Reduction Sum",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/linear-algebra.html#non-reduction-sum"
           },
           {
             "title": "2.3.8. Dot Products",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/linear-algebra.html#dot-products"
           },
           {
             "title": "2.3.9. Matrix–Vector Products",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/linear-algebra.html#matrixvector-products"
           },
           {
             "title": "2.3.10. Matrix–Matrix Multiplication",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/linear-algebra.html#matrixmatrix-multiplication"
           },
           {
             "title": "2.3.11. Norms",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/linear-algebra.html#norms"
           },
           {
             "title": "2.3.12. Discussion",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/linear-algebra.html#discussion"
           },
           {
             "title": "2.3.13. Exercises",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_preliminaries/linear-algebra.html#exercises"
+          }
+        ]
+      },
+      {
+        "title": "2.4. Calculus",
+        "link": "https://d2l.ai/chapter_preliminaries/calculus.html",
+        "deadline": "9/1/2024",
+        "themes": [
+          {
+            "title": "2.4.1. Derivatives and Differentiation",
+            "link": "https://d2l.ai/chapter_preliminaries/calculus.html#derivatives-and-differentiation"
+          },
+          {
+            "title": "2.4.2. Visualization Utilities",
+            "link": "https://d2l.ai/chapter_preliminaries/calculus.html#visualization-utilities"
+          },
+          {
+            "title": "2.4.3. Partial Derivatives and Gradients",
+            "link": "https://d2l.ai/chapter_preliminaries/calculus.html#partial-derivatives-and-gradients"
+          },
+          {
+            "title": "2.4.4. Chain Rule",
+            "link": "https://d2l.ai/chapter_preliminaries/calculus.html#chain-rule"
+          },
+          {
+            "title": "2.4.5. Discussion",
+            "link": "https://d2l.ai/chapter_preliminaries/calculus.html#discussion"
+          },
+          {
+            "title": "2.4.6. Exercises",
+            "link": "https://d2l.ai/chapter_preliminaries/calculus.html#exercises"
+          }
+        ]
+      },
+      {
+        "title": "2.5. Automatic Differentiation",
+        "link": "https://d2l.ai/chapter_preliminaries/autograd.html",
+        "deadline": "9/1/2024",
+        "themes": [
+          {
+            "title": "2.5.1. A Simple Function",
+            "link": "https://d2l.ai/chapter_preliminaries/autograd.html#a-simple-function"
+          },
+          {
+            "title": "2.5.2. Backward for Non-Scalar Variables",
+            "link": "https://d2l.ai/chapter_preliminaries/autograd.html#backward-for-non-scalar-variables"
+          },
+          {
+            "title": "2.5.3. Detaching Computation",
+            "link": "https://d2l.ai/chapter_preliminaries/autograd.html#detaching-computation"
+          },
+          {
+            "title": "2.5.4. Gradients and Python Control Flow",
+            "link": "https://d2l.ai/chapter_preliminaries/autograd.html#gradients-and-python-control-flow"
+          },
+          {
+            "title": "2.5.5. Discussion",
+            "link": "https://d2l.ai/chapter_preliminaries/autograd.html#discussion"
+          },
+          {
+            "title": "2.5.6. Exercises",
+            "link": "https://d2l.ai/chapter_preliminaries/autograd.html#exercises"
+          }
+        ]
+      },
+      {
+        "title": "2.6. Probability and Statistics",
+        "link": "https://d2l.ai/chapter_preliminaries/probability.html",
+        "deadline": "10/1/2024",
+        "themes": [
+          {
+            "title": "2.6.1. A Simple Example: Tossing Coins",
+            "link": "https://d2l.ai/chapter_preliminaries/probability.html#a-simple-example-tossing-coins"
+          },
+          {
+            "title": "2.6.2. A More Formal Treatment",
+            "link": "https://d2l.ai/chapter_preliminaries/probability.html#a-more-formal-treatment"
+          },
+          {
+            "title": "2.6.3. Random Variables",
+            "link": "https://d2l.ai/chapter_preliminaries/probability.html#random-variables"
+          },
+          {
+            "title": "2.6.4. Multiple Random Variables",
+            "link": "https://d2l.ai/chapter_preliminaries/probability.html#multiple-random-variables"
+          },
+          {
+            "title": "2.6.5. An Example",
+            "link": "https://d2l.ai/chapter_preliminaries/probability.html#an-example"
+          },
+          {
+            "title": "2.6.6. Expectations",
+            "link": "https://d2l.ai/chapter_preliminaries/probability.html#expectations"
+          },
+          {
+            "title": "2.6.7. Discussion",
+            "link": "https://d2l.ai/chapter_preliminaries/probability.html#discussion"
+          },
+          {
+            "title": "2.6.8. Exercises",
+            "link": "https://d2l.ai/chapter_preliminaries/probability.html#exercises"
+          }
+        ]
+      },
+      {
+        "title": "2.7. Documentation",
+        "link": "https://d2l.ai/chapter_preliminaries/lookup-api.html",
+        "deadline": "10/1/2024",
+        "themes": [
+          {
+            "title": "2.7.1. Functions and Classes in a Module",
+            "link": "https://d2l.ai/chapter_preliminaries/lookup-api.html#functions-and-classes-in-a-module"
+          },
+          {
+            "title": "2.7.2. Specific Functions and Classes",
+            "link": "https://d2l.ai/chapter_preliminaries/lookup-api.html#specific-functions-and-classes"
           }
         ]
       }
@@ -144,35 +264,421 @@
   },
   {
     "title": "3. Linear Neural Networks for Regression",
-    "link": "https://d2l.ai/chapter_preliminaries/index.html",
+    "link": "https://d2l.ai/chapter_linear-regression/index.html",
     "subchapters" : [
       {
         "title": "3.1. Linear Regression",
-        "link": "https://d2l.ai/chapter_preliminaries/ndarray.html",
+        "link": "https://d2l.ai/chapter_linear-regression/linear-regression.html",
+        "deadline": "14/1/2024",
         "themes": [
           {
             "title": "3.1.1. Basics",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_linear-regression/linear-regression.html#basics"
           },
           {
             "title": "3.1.2. Vectorization for Speed",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_linear-regression/linear-regression.html#vectorization-for-speed"
           },
           {
             "title": "3.1.3. The Normal Distribution and Squared Loss",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_linear-regression/linear-regression.html#the-normal-distribution-and-squared-loss"
           },
           {
             "title": "3.1.4. Linear Regression as a Neural Network",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_linear-regression/linear-regression.html#linear-regression-as-a-neural-network"
           },
           {
             "title": "3.1.5. Summary",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_linear-regression/linear-regression.html#exercises"
           },
           {
             "title": "3.1.6. Exercises",
-            "link": "https://d2l.ai/chapter_preliminaries/ndarray.html"
+            "link": "https://d2l.ai/chapter_linear-regression/linear-regression.html#exercises"
+          }
+        ]
+      },
+      {
+        "title": "3.2. Object-Oriented Design for Implementation",
+        "link": "https://d2l.ai/chapter_linear-regression/oo-design.html",
+        "deadline": "15/1/2024",
+        "themes": [
+          {
+            "title": "3.2.1. Utilities",
+            "link": "https://d2l.ai/chapter_linear-regression/oo-design.html#utilities"
+          },
+          {
+            "title": "3.2.2. Models",
+            "link": "https://d2l.ai/chapter_linear-regression/oo-design.html#models"
+          },
+          {
+            "title": "3.2.3. Data",
+            "link": "https://d2l.ai/chapter_linear-regression/oo-design.html#data"
+          },
+          {
+            "title": "3.2.4. Training",
+            "link": "https://d2l.ai/chapter_linear-regression/oo-design.html#training"
+          },
+          {
+            "title": "3.2.5. Summary",
+            "link": "https://d2l.ai/chapter_linear-regression/oo-design.html#summary"
+          },
+          {
+            "title": "3.2.6. Exercises",
+            "link": "https://d2l.ai/chapter_linear-regression/oo-design.html#exercises"
+          }
+        ]
+      },
+      {
+        "title": "3.3. Synthetic Regression Data",
+        "link": "https://d2l.ai/chapter_linear-regression/synthetic-regression-data.html",
+        "deadline": "15/1/2024",
+        "themes": [
+          {
+            "title": "3.3.1. Generating the Dataset",
+            "link": "https://d2l.ai/chapter_linear-regression/synthetic-regression-data.html#generating-the-dataset"
+          },
+          {
+            "title": "3.3.2. Reading the Dataset",
+            "link": "https://d2l.ai/chapter_linear-regression/synthetic-regression-data.html#reading-the-dataset"
+          },
+          {
+            "title": "3.3.3. Concise Implementation of the Data Loader",
+            "link": "https://d2l.ai/chapter_linear-regression/synthetic-regression-data.html#concise-implementation-of-the-data-loader"
+          },
+          {
+            "title": "3.3.4. Summary",
+            "link": "https://d2l.ai/chapter_linear-regression/synthetic-regression-data.html#summary"
+          },
+          {
+            "title": "3.3.5. Exercises",
+            "link": "https://d2l.ai/chapter_linear-regression/synthetic-regression-data.html#exercises"
+          }
+        ]
+      },
+      {
+        "title": "3.4. Linear Regression Implementation from Scratch",
+        "link": "https://d2l.ai/chapter_linear-regression/linear-regression-scratch.html",
+        "deadline": "16/1/2024",
+        "themes": [
+          {
+            "title": "3.4.1. Defining the Model",
+            "link": "https://d2l.ai/chapter_linear-regression/linear-regression-scratch.html#defining-the-model"
+          },
+          {
+            "title": "3.4.2. Defining the Loss Function",
+            "link": "https://d2l.ai/chapter_linear-regression/linear-regression-scratch.html#defining-the-loss-function"
+          },
+          {
+            "title": "3.4.3. Defining the Optimization Algorithm",
+            "link": "https://d2l.ai/chapter_linear-regression/linear-regression-scratch.html#defining-the-optimization-algorithm"
+          },
+          {
+            "title": "3.4.4. Training",
+            "link": "https://d2l.ai/chapter_linear-regression/linear-regression-scratch.html#training"
+          },
+          {
+            "title": "3.4.5. Summary",
+            "link": "https://d2l.ai/chapter_linear-regression/linear-regression-scratch.html#summary"
+          },
+          {
+            "title": "3.4.6. Exercises",
+            "link": "https://d2l.ai/chapter_linear-regression/linear-regression-scratch.html#exercises"
+          }
+        ]
+      },
+      {
+        "title": "3.5. Concise Implementation of Linear Regression",
+        "link": "https://d2l.ai/chapter_linear-regression/linear-regression-concise.html",
+        "deadline": "17/1/2024",
+        "themes": [
+          {
+            "title": "3.5.1. Defining the Model",
+            "link": "https://d2l.ai/chapter_linear-regression/linear-regression-concise.html#defining-the-model"
+          },
+          {
+            "title": "3.5.2. Defining the Loss Function",
+            "link": "https://d2l.ai/chapter_linear-regression/linear-regression-concise.html#defining-the-loss-function"
+          },
+          {
+            "title": "3.5.3. Defining the Optimization Algorithm",
+            "link": "https://d2l.ai/chapter_linear-regression/linear-regression-concise.html#defining-the-optimization-algorithm"
+          },
+          {
+            "title": "3.5.4. Training",
+            "link": "https://d2l.ai/chapter_linear-regression/linear-regression-concise.html#training"
+          },
+          {
+            "title": "3.5.5. Summary",
+            "link": "https://d2l.ai/chapter_linear-regression/linear-regression-concise.html#summary"
+          },
+          {
+            "title": "3.5.6. Exercises",
+            "link": "https://d2l.ai/chapter_linear-regression/linear-regression-concise.html#exercises"
+          }
+        ]
+      },
+      {
+        "title": "3.6. Generalization",
+        "link": "https://d2l.ai/chapter_linear-regression/generalization.html",
+        "deadline": "17/1/2024",
+        "themes": [
+          {
+            "title": "3.6.1. Training Error and Generalization Error",
+            "link": "https://d2l.ai/chapter_linear-regression/generalization.html#training-error-and-generalization-error"
+          },
+          {
+            "title": "3.6.2. Underfitting or Overfitting?",
+            "link": "https://d2l.ai/chapter_linear-regression/generalization.html#underfitting-or-overfitting"
+          },
+          {
+            "title": "3.6.3. Model Selection",
+            "link": "https://d2l.ai/chapter_linear-regression/generalization.html#model-selection"
+          },
+          {
+            "title": "3.6.4. Summary",
+            "link": "https://d2l.ai/chapter_linear-regression/generalization.html#summary"
+          },
+          {
+            "title": "3.6.5. Exercises",
+            "link": "https://d2l.ai/chapter_linear-regression/generalization.html#exercises"
+          }
+        ]
+      },
+      {
+        "title": "3.7. Weight Decay",
+        "link": "https://d2l.ai/chapter_linear-regression/weight-decay.html",
+        "deadline": "18/1/2024",
+        "themes": [
+          {
+            "title": "3.7.1. Norms and Weight Decay",
+            "link": "https://d2l.ai/chapter_linear-regression/weight-decay.html#norms-and-weight-decay"
+          },
+          {
+            "title": "3.7.2. High-Dimensional Linear Regression",
+            "link": "https://d2l.ai/chapter_linear-regression/weight-decay.html#high-dimensional-linear-regression"
+          },
+          {
+            "title": "3.7.3. Implementation from Scratch",
+            "link": "https://d2l.ai/chapter_linear-regression/weight-decay.html#implementation-from-scratch"
+          },
+          {
+            "title": "3.7.4. Concise Implementation",
+            "link": "https://d2l.ai/chapter_linear-regression/weight-decay.html#concise-implementation"
+          },
+          {
+            "title": "3.7.5. Summary",
+            "link": "https://d2l.ai/chapter_linear-regression/weight-decay.html#summary"
+          },
+          {
+            "title": "3.7.6. Exercises",
+            "link": "https://d2l.ai/chapter_linear-regression/weight-decay.html#exercises"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "4. Linear Neural Networks for Classification",
+    "link": "https://d2l.ai/chapter_linear-classification/index.html",
+    "subchapters" : [
+      {
+        "title": "4.1. Softmax Regression",
+        "link": "https://d2l.ai/chapter_linear-classification/softmax-regression.html",
+        "deadline": "22/1/2024",
+        "themes": [
+          {
+            "title": "4.1.1. Classification",
+            "link": "https://d2l.ai/chapter_linear-classification/softmax-regression.html#classification"
+          },
+          {
+            "title": "4.1.2. Loss Function",
+            "link": "https://d2l.ai/chapter_linear-classification/softmax-regression.html#loss-function"
+          },
+          {
+            "title": "4.1.3. Information Theory Basics",
+            "link": "https://d2l.ai/chapter_linear-classification/softmax-regression.html#information-theory-basics"
+          },
+          {
+            "title": "4.1.4. Summary and Discussion",
+            "link": "https://d2l.ai/chapter_linear-classification/softmax-regression.html#summary-and-discussion"
+          },
+          {
+            "title": "4.1.5. Exercises",
+            "link": "https://d2l.ai/chapter_linear-classification/softmax-regression.html#exercises"
+          }
+        ]
+      },
+      {
+        "title": "4.2. The Image Classification Dataset",
+        "link": "https://d2l.ai/chapter_linear-classification/image-classification-dataset.html",
+        "deadline": "22/1/2024",
+        "themes": [
+          {
+            "title": "4.2.1. Loading the Dataset",
+            "link": "https://d2l.ai/chapter_linear-classification/image-classification-dataset.html#loading-the-dataset"
+          },
+          {
+            "title": "4.2.2. Reading a Minibatch",
+            "link": "https://d2l.ai/chapter_linear-classification/image-classification-dataset.html#reading-a-minibatch"
+          },
+          {
+            "title": "4.2.3. Visualization",
+            "link": "https://d2l.ai/chapter_linear-classification/image-classification-dataset.html#visualization"
+          },
+          {
+            "title": "4.2.4. Summary",
+            "link": "https://d2l.ai/chapter_linear-classification/image-classification-dataset.html#summary"
+          },
+          {
+            "title": "4.2.5. Exercises",
+            "link": "https://d2l.ai/chapter_linear-classification/image-classification-dataset.html#exercises"
+          }
+        ]
+      },
+      {
+        "title": "4.3. The Base Classification Model",
+        "link": "https://d2l.ai/chapter_linear-classification/classification.html",
+        "deadline": "23/1/2024",
+        "themes": [
+          {
+            "title": "4.3.1. The Classifier Class",
+            "link": "https://d2l.ai/chapter_linear-classification/classification.html#the-classifier-class"
+          },
+          {
+            "title": "4.3.2. Accuracy",
+            "link": "https://d2l.ai/chapter_linear-classification/classification.html#accuracy"
+          },
+          {
+            "title": "4.3.3. Summary",
+            "link": "https://d2l.ai/chapter_linear-classification/classification.html#summary"
+          },
+          {
+            "title": "4.3.4. Exercises",
+            "link": "https://d2l.ai/chapter_linear-classification/classification.html#exercises"
+          }
+        ]
+      },
+      {
+        "title": "4.4. Softmax Regression Implementation from Scratch",
+        "link": "https://d2l.ai/chapter_linear-classification/softmax-regression-scratch.html",
+        "deadline": "23/1/2024",
+        "themes": [
+          {
+            "title": "4.4.1. The Softmax",
+            "link": "https://d2l.ai/chapter_linear-classification/softmax-regression-scratch.html#the-softmax"
+          },
+          {
+            "title": "4.4.2. The Model",
+            "link": "https://d2l.ai/chapter_linear-classification/softmax-regression-scratch.html#the-model"
+          },
+          {
+            "title": "4.4.3. The Cross-Entropy Loss",
+            "link": "https://d2l.ai/chapter_linear-classification/softmax-regression-scratch.html#the-cross-entropy-loss"
+          },
+          {
+            "title": "4.4.4. Training",
+            "link": "https://d2l.ai/chapter_linear-classification/softmax-regression-scratch.html#training"
+          },
+          {
+            "title": "4.4.5. Prediction",
+            "link": "https://d2l.ai/chapter_linear-classification/softmax-regression-scratch.html#prediction"
+          },
+          {
+            "title": "4.4.6. Summary",
+            "link": "https://d2l.ai/chapter_linear-classification/softmax-regression-scratch.html#summary"
+          },
+          {
+            "title": "4.4.7. Exercises",
+            "link": "https://d2l.ai/chapter_linear-classification/softmax-regression-scratch.html#exercises"
+          }
+        ]
+      },
+      {
+        "title": "4.5. Concise Implementation of Softmax Regression",
+        "link": "https://d2l.ai/chapter_linear-classification/softmax-regression-concise.html",
+        "deadline": "24/1/2024",
+        "themes": [
+          {
+            "title": "4.5.1. Defining the Model",
+            "link": "https://d2l.ai/chapter_linear-classification/softmax-regression-concise.html#defining-the-model"
+          },
+          {
+            "title": "4.5.2. Softmax Revisited",
+            "link": "https://d2l.ai/chapter_linear-classification/softmax-regression-concise.html#softmax-revisited"
+          },
+          {
+            "title": "4.5.3. Training",
+            "link": "https://d2l.ai/chapter_linear-classification/softmax-regression-concise.html#training"
+          },
+          {
+            "title": "4.5.4. Summary",
+            "link": "https://d2l.ai/chapter_linear-classification/softmax-regression-concise.html#summary"
+          },
+          {
+            "title": "4.5.5. Exercises",
+            "link": "https://d2l.ai/chapter_linear-classification/softmax-regression-concise.html#exercises"
+          }
+        ]
+      },
+      {
+        "title": "4.6. Generalization in Classification",
+        "link": "https://d2l.ai/chapter_linear-classification/generalization-classification.html",
+        "deadline": "25/1/2024",
+        "themes": [
+          {
+            "title": "4.6.1. The Test Set",
+            "link": "https://d2l.ai/chapter_linear-classification/generalization-classification.html#the-test-set"
+          },
+          {
+            "title": "4.6.2. Test Set Reuse",
+            "link": "https://d2l.ai/chapter_linear-classification/generalization-classification.html#test-set-reuse"
+          },
+          {
+            "title": "4.6.3. Statistical Learning Theory",
+            "link": "https://d2l.ai/chapter_linear-classification/generalization-classification.html#statistical-learning-theory"
+          },
+          {
+            "title": "4.6.4. Summary",
+            "link": "https://d2l.ai/chapter_linear-classification/generalization-classification.html#summary"
+          },
+          {
+            "title": "4.6.5. Exercises",
+            "link": "https://d2l.ai/chapter_linear-classification/generalization-classification.html#exercises"
+          }
+        ]
+      },
+      {
+        "title": "4.7. Environment and Distribution Shift",
+        "link": "https://d2l.ai/chapter_linear-classification/environment-and-distribution-shift.html",
+        "deadline": "26/1/2024",
+        "themes": [
+          {
+            "title": "4.7.1. Types of Distribution Shift",
+            "link": "https://d2l.ai/chapter_linear-classification/environment-and-distribution-shift.html#types-of-distribution-shift"
+          },
+          {
+            "title": "4.7.2. Examples of Distribution Shift",
+            "link": "https://d2l.ai/chapter_linear-classification/environment-and-distribution-shift.html#examples-of-distribution-shift"
+          },
+          {
+            "title": "4.7.3. Correction of Distribution Shift",
+            "link": "https://d2l.ai/chapter_linear-classification/environment-and-distribution-shift.html#correction-of-distribution-shift"
+          },
+          {
+            "title": "4.7.4. A Taxonomy of Learning Problems",
+            "link": "https://d2l.ai/chapter_linear-classification/environment-and-distribution-shift.html#a-taxonomy-of-learning-problems"
+          },
+          {
+            "title": "4.7.5. Fairness, Accountability, and Transparency in Machine Learning",
+            "link": "https://d2l.ai/chapter_linear-classification/environment-and-distribution-shift.html#fairness-accountability-and-transparency-in-machine-learning"
+          },
+          {
+            "title": "4.7.6. Summary",
+            "link": "https://d2l.ai/chapter_linear-classification/environment-and-distribution-shift.html#summary"
+          },
+          {
+            "title": "4.7.7. Exercises",
+            "link": "https://d2l.ai/chapter_linear-classification/environment-and-distribution-shift.html#exercises"
           }
         ]
       }

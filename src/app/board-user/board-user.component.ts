@@ -75,8 +75,9 @@ export class BoardUserComponent implements OnInit {
 
   getOveralCompletition(iChapter: number): number{
     if (this.checklist){
-      console.log(this.checklist['chapter' + 1])
-      return 0;
+      let total : number = Object.keys(flatten(this.checklist['chapter' + iChapter])).length;
+      let trues : number = this.countTrues(flatten(this.checklist['chapter' + iChapter]))
+      return Math.trunc(trues/total * 100);
     }
     return 0;
 
