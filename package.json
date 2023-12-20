@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --configuration production --base-href /smart-x-book-reading-club/",
+    "build": "ng build --configuration production --base-href /club/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "lint": "ng lint"
