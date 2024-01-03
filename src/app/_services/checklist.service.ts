@@ -1,8 +1,9 @@
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Observable } from 'rxjs';
+import { environment as env } from '../../environments/environment';
 
-const API_URL = 'https://smartx.espol.edu.ec/clubapi/checklist/';
+const API_URL = env.base_url +  '/clubapi/checklist/';
 
 const httpOptions = {
   headers: new HttpHeaders({ 'Content-Type': 'application/json' })
