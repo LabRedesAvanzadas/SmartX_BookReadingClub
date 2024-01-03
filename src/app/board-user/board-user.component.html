@@ -21,12 +21,19 @@
           {{subchapter.title}}
         </mat-panel-title>
         <mat-panel-description>
-          {{getCompletitionNumber(iChapter+1, iSubchapter+1)}} de {{subchapter.themes.length}}
+          <div class="col-6">
+            {{getCompletitionNumber(iChapter+1, iSubchapter+1)}} de {{subchapter.themes.length}}
+          </div>
+          <div class="col-6">
+            <mat-chip-list aria-label="deadline">
+              <mat-chip>{{subchapter.deadline}}</mat-chip>
+            </mat-chip-list>
+          </div>
         </mat-panel-description>
       </mat-expansion-panel-header>
       <mat-selection-list>
         <h3>
-          <mat-list-option 
+          <mat-list-option
           *ngFor="let theme of subchapter.themes; let iTheme = index"
           [selected]="verifyCheckedTheme(iChapter+1, iSubchapter+1, iTheme+1)"
           (selectedChange)="updateChecklist($event, iChapter+1, iSubchapter+1, iTheme+1)">
