@@ -6,7 +6,7 @@
       {
         "title": "Introdution and examples",
         "link": "",
-        "deadline": "4/1/2024",
+        "deadline": "11/01/2024",
         "themes": [{
           "title": "Introduction and examples",
           "link": "https://d2l.ai/chapter_introduction/index.html"
@@ -21,7 +21,7 @@
       {
         "title": "2.1. Data Manipulation",
         "link": "https://d2l.ai/chapter_preliminaries/ndarray.html",
-        "deadline": "7/1/2024",
+        "deadline": "14/01/2024",
         "themes": [
           {
             "title": "2.1.1. Getting Started",
@@ -60,7 +60,7 @@
       {
         "title": "2.2. Data Preprocessing",
         "link": "https://d2l.ai/chapter_preliminaries/pandas.html",
-        "deadline": "7/1/2024",
+        "deadline": "14/01/2024",
         "themes": [
           {
             "title": "2.2.1. Reading the Dataset",
@@ -88,7 +88,7 @@
       {
         "title": "2.3. Linear Algebra",
         "link": "https://d2l.ai/chapter_preliminaries/linear-algebra.html",
-        "deadline": "8/1/2024",
+        "deadline": "15/01/2024",
         "themes": [
           {
             "title": "2.3.1. Scalars",
@@ -147,7 +147,7 @@
       {
         "title": "2.4. Calculus",
         "link": "https://d2l.ai/chapter_preliminaries/calculus.html",
-        "deadline": "9/1/2024",
+        "deadline": "16/01/2024",
         "themes": [
           {
             "title": "2.4.1. Derivatives and Differentiation",
@@ -178,7 +178,7 @@
       {
         "title": "2.5. Automatic Differentiation",
         "link": "https://d2l.ai/chapter_preliminaries/autograd.html",
-        "deadline": "9/1/2024",
+        "deadline": "16/01/2024",
         "themes": [
           {
             "title": "2.5.1. A Simple Function",
@@ -209,7 +209,7 @@
       {
         "title": "2.6. Probability and Statistics",
         "link": "https://d2l.ai/chapter_preliminaries/probability.html",
-        "deadline": "10/1/2024",
+        "deadline": "17/01/2024",
         "themes": [
           {
             "title": "2.6.1. A Simple Example: Tossing Coins",
@@ -248,7 +248,7 @@
       {
         "title": "2.7. Documentation",
         "link": "https://d2l.ai/chapter_preliminaries/lookup-api.html",
-        "deadline": "10/1/2024",
+        "deadline": "18/01/2024",
         "themes": [
           {
             "title": "2.7.1. Functions and Classes in a Module",
@@ -269,7 +269,7 @@
       {
         "title": "3.1. Linear Regression",
         "link": "https://d2l.ai/chapter_linear-regression/linear-regression.html",
-        "deadline": "14/1/2024",
+        "deadline": "21/01/2024",
         "themes": [
           {
             "title": "3.1.1. Basics",
@@ -300,7 +300,7 @@
       {
         "title": "3.2. Object-Oriented Design for Implementation",
         "link": "https://d2l.ai/chapter_linear-regression/oo-design.html",
-        "deadline": "15/1/2024",
+        "deadline": "22/01/2024",
         "themes": [
           {
             "title": "3.2.1. Utilities",
@@ -331,7 +331,7 @@
       {
         "title": "3.3. Synthetic Regression Data",
         "link": "https://d2l.ai/chapter_linear-regression/synthetic-regression-data.html",
-        "deadline": "15/1/2024",
+        "deadline": "22/01/2024",
         "themes": [
           {
             "title": "3.3.1. Generating the Dataset",
@@ -358,7 +358,7 @@
       {
         "title": "3.4. Linear Regression Implementation from Scratch",
         "link": "https://d2l.ai/chapter_linear-regression/linear-regression-scratch.html",
-        "deadline": "16/1/2024",
+        "deadline": "23/01/2024",
         "themes": [
           {
             "title": "3.4.1. Defining the Model",
@@ -389,7 +389,7 @@
       {
         "title": "3.5. Concise Implementation of Linear Regression",
         "link": "https://d2l.ai/chapter_linear-regression/linear-regression-concise.html",
-        "deadline": "17/1/2024",
+        "deadline": "24/01/2024",
         "themes": [
           {
             "title": "3.5.1. Defining the Model",
@@ -420,7 +420,7 @@
       {
         "title": "3.6. Generalization",
         "link": "https://d2l.ai/chapter_linear-regression/generalization.html",
-        "deadline": "17/1/2024",
+        "deadline": "24/01/2024",
         "themes": [
           {
             "title": "3.6.1. Training Error and Generalization Error",
@@ -447,7 +447,7 @@
       {
         "title": "3.7. Weight Decay",
         "link": "https://d2l.ai/chapter_linear-regression/weight-decay.html",
-        "deadline": "18/1/2024",
+        "deadline": "25/01/2024",
         "themes": [
           {
             "title": "3.7.1. Norms and Weight Decay",
@@ -484,7 +484,7 @@
       {
         "title": "4.1. Softmax Regression",
         "link": "https://d2l.ai/chapter_linear-classification/softmax-regression.html",
-        "deadline": "22/1/2024",
+        "deadline": "29/01/2024",
         "themes": [
           {
             "title": "4.1.1. Classification",
@@ -511,7 +511,7 @@
       {
         "title": "4.2. The Image Classification Dataset",
         "link": "https://d2l.ai/chapter_linear-classification/image-classification-dataset.html",
-        "deadline": "22/1/2024",
+        "deadline": "29/01/2024",
         "themes": [
           {
             "title": "4.2.1. Loading the Dataset",
@@ -538,7 +538,7 @@
       {
         "title": "4.3. The Base Classification Model",
         "link": "https://d2l.ai/chapter_linear-classification/classification.html",
-        "deadline": "23/1/2024",
+        "deadline": "30/01/2024",
         "themes": [
           {
             "title": "4.3.1. The Classifier Class",
@@ -561,7 +561,7 @@
       {
         "title": "4.4. Softmax Regression Implementation from Scratch",
         "link": "https://d2l.ai/chapter_linear-classification/softmax-regression-scratch.html",
-        "deadline": "23/1/2024",
+        "deadline": "30/01/2024",
         "themes": [
           {
             "title": "4.4.1. The Softmax",
@@ -596,7 +596,7 @@
       {
         "title": "4.5. Concise Implementation of Softmax Regression",
         "link": "https://d2l.ai/chapter_linear-classification/softmax-regression-concise.html",
-        "deadline": "24/1/2024",
+        "deadline": "31/01/2024",
         "themes": [
           {
             "title": "4.5.1. Defining the Model",
@@ -623,7 +623,7 @@
       {
         "title": "4.6. Generalization in Classification",
         "link": "https://d2l.ai/chapter_linear-classification/generalization-classification.html",
-        "deadline": "25/1/2024",
+        "deadline": "01/02/2024",
         "themes": [
           {
             "title": "4.6.1. The Test Set",
@@ -650,7 +650,7 @@
       {
         "title": "4.7. Environment and Distribution Shift",
         "link": "https://d2l.ai/chapter_linear-classification/environment-and-distribution-shift.html",
-        "deadline": "26/1/2024",
+        "deadline": "02/02/2024",
         "themes": [
           {
             "title": "4.7.1. Types of Distribution Shift",
@@ -691,7 +691,7 @@
       {
         "title": "5.1. Multilayer Perceptrons",
         "link": "https://d2l.ai/chapter_multilayer-perceptrons/mlp.html",
-        "deadline": "22/1/2024",
+        "deadline": "05/02/2024",
         "themes": [
           {
             "title": "5.1.1. Hidden Layers",
@@ -714,7 +714,7 @@
       {
         "title": "5.2. Implementation of Multilayer Perceptrons",
         "link": "https://d2l.ai/chapter_multilayer-perceptrons/mlp-implementation.html",
-        "deadline": "22/1/2024",
+        "deadline": "05/02/2024",
         "themes": [
           {
             "title": "5.2.1. Implementation from Scratch",
@@ -737,7 +737,7 @@
       {
         "title": "5.3. Forward Propagation, Backward Propagation, and Computational Graphs",
         "link": "https://d2l.ai/chapter_multilayer-perceptrons/backprop.html",
-        "deadline": "22/1/2024",
+        "deadline": "06/02/2024",
         "themes": [
           {
             "title": "5.3.1. Forward Propagation",
@@ -768,7 +768,7 @@
       {
         "title": "5.4. Numerical Stability and Initialization",
         "link": "https://d2l.ai/chapter_multilayer-perceptrons/numerical-stability-and-init.html",
-        "deadline": "22/1/2024",
+        "deadline": "06/02/2024",
         "themes": [
           {
             "title": "5.4.1. Vanishing and Exploding Gradients",
@@ -791,7 +791,7 @@
       {
         "title": "5.5. Generalization in Deep Learning",
         "link": "https://d2l.ai/chapter_multilayer-perceptrons/generalization-deep.html",
-        "deadline": "22/1/2024",
+        "deadline": "07/02/2024",
         "themes": [
           {
             "title": "5.5.1. Revisiting Overfitting and Regularization",
@@ -822,7 +822,7 @@
       {
         "title": "5.6. Dropout",
         "link": "https://d2l.ai/chapter_multilayer-perceptrons/dropout.html",
-        "deadline": "22/1/2024",
+        "deadline": "07/02/2024",
         "themes": [
           {
             "title": "5.6.1. Dropout in Practice",
@@ -849,7 +849,7 @@
       {
         "title": "5.7. Predicting House Prices on Kaggle",
         "link": "https://d2l.ai/chapter_multilayer-perceptrons/kaggle-house-price.html",
-        "deadline": "22/1/2024",
+        "deadline": "08/02/2024",
         "themes": [
           {
             "title": "5.7.1. Downloading Data",
